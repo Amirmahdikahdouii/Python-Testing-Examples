@@ -16,6 +16,16 @@ For Run Tests, just run test_chunked.py file, or use command below when you are 
 python3 -m unittest -v test_chunked.py
 ```
 
+2. Ex-2: first method
+
+In **first.py**  we have a function called **first** that return first element of iterable just like itertools.first()
+
+For Run Tests, just run test_first.py file, or use command below when you are in Ex-2/ direcoty:
+
+```
+python3 -m unittest -v test_first.py
+```
+
 ## Doctest Examples:
 1. Ex-1: factorial
 
