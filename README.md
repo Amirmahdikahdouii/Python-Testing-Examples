@@ -15,3 +15,12 @@ For Run Tests, just run test_chunked.py file, or use command below when you are 
 ```
 python3 -m unittest -v test_chunked.py
 ```
+
+## Doctest Examples:
+1. Ex-1: factorial
+
+In Ex-1/factorial.py We have a function called 'factorial' that calculate factorial for us, for testing this module, you should move your terminal path in doctest/Ex-1/ and run command below:
+
+```
+python3 -m doctest -v factorial.py
+```
